@@ -1,7 +1,9 @@
 [package]
 name = "my_kgk_library"
 version = "0.1.0"
+authors = ["ganeshkumar383vai@gmail.com"]
 edition = "2021"
 license = "MIT OR Apache-2.0"
+description = "A brief description of what your library does."
 
 [dependencies]
