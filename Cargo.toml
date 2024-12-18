@@ -4,6 +4,8 @@ version = "0.1.0"
 authors = ["ganeshkumar383vai@gmail.com"]
 edition = "2021"
 license = "MIT OR Apache-2.0"
-description = "A brief description of what your library does."
+description = "A brief description of what your library does. 
+                crate.io library https://crates.io/crates/my_kgk_library 
+                code coverage https://app.codecov.io/github/KGANESHKUMARK"
 
 [dependencies]
